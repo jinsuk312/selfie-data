@@ -22,5 +22,6 @@
 	"homepage": "https://github.com/justinjinsukkim312/selfie-data#readme",
 	"dependencies": {
 		"express": "^4.17.1"
-	}
+	},
+	"devDependencies": {}
 }
